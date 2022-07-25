@@ -5,7 +5,7 @@
 	</head>
 
 <body> 
-	<h1>PHP 2022 Automation Test - Aniket Babbar</h1>
+	<h1>PHP 2022 Automation Test 3 - Aniket Babbar</h1>
 		<p><b>Amdocs NA Session 4</b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
